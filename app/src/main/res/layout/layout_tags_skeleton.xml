@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.shimmer.ShimmerFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.flexbox.FlexboxLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="16dp"
+        app:alignItems="flex_start"
+        app:flexDirection="row"
+        app:flexWrap="wrap"
+        app:justifyContent="space_around">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="@dimen/item_tag_width"
+            android:layout_height="@dimen/item_tag_height"
+            android:layout_marginBottom="24dp"
+            app:cardBackgroundColor="@color/skeleton"
+            app:cardCornerRadius="8dp" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="@dimen/item_tag_width"
+            android:layout_height="@dimen/item_tag_height"
+            android:layout_marginBottom="24dp"
+            app:cardBackgroundColor="@color/skeleton"
+            app:cardCornerRadius="8dp" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="@dimen/item_tag_width"
+            android:layout_height="@dimen/item_tag_height"
+            android:layout_marginBottom="24dp"
+            app:cardBackgroundColor="@color/skeleton"
+            app:cardCornerRadius="8dp" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="@dimen/item_tag_width"
+            android:layout_height="@dimen/item_tag_height"
+            android:layout_marginBottom="24dp"
+            app:cardBackgroundColor="@color/skeleton"
+            app:cardCornerRadius="8dp" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="@dimen/item_tag_width"
+            android:layout_height="@dimen/item_tag_height"
+            android:layout_marginBottom="24dp"
+            app:cardBackgroundColor="@color/skeleton"
+            app:cardCornerRadius="8dp" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="@dimen/item_tag_width"
+            android:layout_height="@dimen/item_tag_height"
+            android:layout_marginBottom="24dp"
+            app:cardBackgroundColor="@color/skeleton"
+            app:cardCornerRadius="8dp" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="@dimen/item_tag_width"
+            android:layout_height="@dimen/item_tag_height"
+            android:layout_marginBottom="24dp"
+            app:cardBackgroundColor="@color/skeleton"
+            app:cardCornerRadius="8dp" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="@dimen/item_tag_width"
+            android:layout_height="@dimen/item_tag_height"
+            android:layout_marginBottom="24dp"
+            app:cardBackgroundColor="@color/skeleton"
+            app:cardCornerRadius="8dp" />
+
+    </com.google.android.flexbox.FlexboxLayout>
+</com.facebook.shimmer.ShimmerFrameLayout>

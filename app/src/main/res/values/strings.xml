@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Imgur browser</string>
+    <string name="layout_error_refresh">Refresh</string>
+    <string name="layout_error_something_wrong">Something went wrong. Please try again.</string>
+    <string name="menu_bottom_navigation_main_home">Home</string>
+    <string name="menu_bottom_navigation_main_account">Account</string>
+    <string name="login_enter">Login</string>
+    <string name="logout">Logout</string>
+</resources>

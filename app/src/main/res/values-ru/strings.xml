@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_bottom_navigation_main_home">Главная</string>
+    <string name="menu_bottom_navigation_main_account">Аккаунт</string>
+    <string name="login_enter">Войти</string>
+</resources>
